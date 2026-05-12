@@ -7,7 +7,7 @@
 * [0 - Course Introduction](0-Course_Introduction.md)
 * [01 - Flow Process Chart, VSM, IDEF0](slide01_updated.md)
 * [02 - Introduction to Factory Models](02_Introduction_Factory_Models_with_solutions.md)
-* [03 - Single Workstation Analysis](03_Single_Workstation_Analysis_with_solutions.md)
+* [03 - Single Workstation Analysis](03_Single_Workstation_Analysis.md)
 * [04 - Process Variability](04_Process_variability_with_solutions.md)
 * [05 - Multiple Stage Factory Models](05_Multiple-Stage%2520Factory%2520Models_with_solutions.md)
 * [06 - Multiple Product Factory Models](06_Multiple_Product_Factory_Models_with_solutions.md)
